@@ -8,6 +8,9 @@ function App() {
   return (
     <>
       <ProductList/>
+      <UsingState/>
+      <Lifecycle/>
+      <UnmountDemo/>
     </>
   )
 }
